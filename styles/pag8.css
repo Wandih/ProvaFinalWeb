@@ -1,0 +1,35 @@
+body{
+    float: none;
+    background-color: lightblue;
+    text-align: center;
+    font-size:large;
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 0;
+}
+
+form{
+    float: none;
+    margin: 5px 610px;
+    padding: 40px;
+    align-items: center;
+    background-color: grey;
+    width: 30%;
+    background-position: center;
+    text-align: center;
+}
+
+
+footer{
+    background-color: white;
+    padding: 1px;
+    text-align: center;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
